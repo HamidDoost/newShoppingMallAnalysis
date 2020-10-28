@@ -1,2 +1,2 @@
-# newShoppingMallAnalysis
-Analysis of opening a new shopping centre in Sydney by data analysis techniques together with clustering machine learning. 
+# Coursera_Capstone
+This is repository for Applied Data Science Capstone Project
